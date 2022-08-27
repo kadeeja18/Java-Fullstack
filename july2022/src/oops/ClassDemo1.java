@@ -21,6 +21,7 @@ class ATM{
 		 money = money-amt;
 		 return amt;
 //		 any var declared inside the method is accessible only inside the method
+//		 called as local var
 	 }
 	 public void checkBalance() {
 		 System.out.println("Your balance is "+ money);
