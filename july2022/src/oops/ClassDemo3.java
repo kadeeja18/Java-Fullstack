@@ -8,6 +8,7 @@ public class ClassDemo3 {
 		// TODO Auto-generated method stub
 		Calculator casio = new Calculator();
 		Scanner scan = new Scanner(System.in);
+//		while repeats the input ask
 		while(true) {
 		System.out.println("Enter Number 1");
 		int x =scan.nextInt();
