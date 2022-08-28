@@ -3,7 +3,7 @@ package oops;
 public class PbrPbvDemo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub .
 Student rahim = new Student();
 String word = "Indira Gandhi";
 System.out.println("Before primitive..."+word);
